@@ -1,0 +1,2483 @@
+[
+  {
+    "file": "IMG_1737.HEIC",
+    "ocrCharacters": 922,
+    "lessonIds": [
+      "role-and-standards"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1738.HEIC",
+    "ocrCharacters": 964,
+    "lessonIds": [
+      "role-and-standards"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1739.HEIC",
+    "ocrCharacters": 687,
+    "lessonIds": [
+      "role-and-standards"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1740.HEIC",
+    "ocrCharacters": 546,
+    "lessonIds": [
+      "role-and-standards"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1741.HEIC",
+    "ocrCharacters": 1045,
+    "lessonIds": [
+      "role-and-standards",
+      "communication",
+      "rotation-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1742.HEIC",
+    "ocrCharacters": 1654,
+    "lessonIds": [
+      "role-and-standards"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1744.HEIC",
+    "ocrCharacters": 1124,
+    "lessonIds": [
+      "communication"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1745.HEIC",
+    "ocrCharacters": 766,
+    "lessonIds": [
+      "communication"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1746.HEIC",
+    "ocrCharacters": 1372,
+    "lessonIds": [
+      "communication"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1747.HEIC",
+    "ocrCharacters": 498,
+    "lessonIds": [
+      "communication"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1748.HEIC",
+    "ocrCharacters": 1566,
+    "lessonIds": [
+      "communication"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1749.HEIC",
+    "ocrCharacters": 1429,
+    "lessonIds": [
+      "communication",
+      "psop-nop-eap"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1750.HEIC",
+    "ocrCharacters": 1507,
+    "lessonIds": [
+      "role-and-standards"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1751.HEIC",
+    "ocrCharacters": 1335,
+    "lessonIds": [
+      "induction-and-training"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1752.HEIC",
+    "ocrCharacters": 1057,
+    "lessonIds": [
+      "induction-and-training",
+      "practical-and-interview"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1753.HEIC",
+    "ocrCharacters": 989,
+    "lessonIds": [
+      "induction-and-training",
+      "practical-and-interview"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1754.HEIC",
+    "ocrCharacters": 1010,
+    "lessonIds": [
+      "induction-and-training",
+      "practical-and-interview"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1755.HEIC",
+    "ocrCharacters": 860,
+    "lessonIds": [
+      "induction-and-training",
+      "practical-and-interview"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1756.HEIC",
+    "ocrCharacters": 1250,
+    "lessonIds": [
+      "induction-and-training",
+      "practical-and-interview"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1757.HEIC",
+    "ocrCharacters": 1375,
+    "lessonIds": [
+      "law-and-responsibility"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1758.HEIC",
+    "ocrCharacters": 1115,
+    "lessonIds": [
+      "law-and-responsibility"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1759.HEIC",
+    "ocrCharacters": 781,
+    "lessonIds": [
+      "law-and-responsibility"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1760.HEIC",
+    "ocrCharacters": 1033,
+    "lessonIds": [
+      "law-and-responsibility"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1761.HEIC",
+    "ocrCharacters": 569,
+    "lessonIds": [
+      "law-and-responsibility"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1762.HEIC",
+    "ocrCharacters": 472,
+    "lessonIds": [
+      "psop-nop-eap"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1763.HEIC",
+    "ocrCharacters": 911,
+    "lessonIds": [
+      "psop-nop-eap"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1764.HEIC",
+    "ocrCharacters": 1165,
+    "lessonIds": [
+      "psop-nop-eap"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1765.HEIC",
+    "ocrCharacters": 612,
+    "lessonIds": [
+      "safeguarding-and-inclusion"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1766.HEIC",
+    "ocrCharacters": 690,
+    "lessonIds": [
+      "safeguarding-and-inclusion"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1767.HEIC",
+    "ocrCharacters": 870,
+    "lessonIds": [
+      "safeguarding-and-inclusion"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1768.HEIC",
+    "ocrCharacters": 958,
+    "lessonIds": [
+      "safeguarding-and-inclusion"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1769.HEIC",
+    "ocrCharacters": 594,
+    "lessonIds": [
+      "safeguarding-and-inclusion"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1770.HEIC",
+    "ocrCharacters": 426,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1771.HEIC",
+    "ocrCharacters": 412,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1772.HEIC",
+    "ocrCharacters": 503,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1773.HEIC",
+    "ocrCharacters": 945,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1774.HEIC",
+    "ocrCharacters": 776,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1775.HEIC",
+    "ocrCharacters": 501,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1777.HEIC",
+    "ocrCharacters": 630,
+    "lessonIds": [
+      "law-and-responsibility"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1778.HEIC",
+    "ocrCharacters": 945,
+    "lessonIds": [
+      "law-and-responsibility"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1779.HEIC",
+    "ocrCharacters": 671,
+    "lessonIds": [
+      "risk-assessment"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1780.HEIC",
+    "ocrCharacters": 460,
+    "lessonIds": [
+      "risk-assessment"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1781.HEIC",
+    "ocrCharacters": 580,
+    "lessonIds": [
+      "risk-assessment"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1782.HEIC",
+    "ocrCharacters": 440,
+    "lessonIds": [
+      "risk-assessment"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1783.HEIC",
+    "ocrCharacters": 694,
+    "lessonIds": [
+      "risk-assessment"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1784.HEIC",
+    "ocrCharacters": 938,
+    "lessonIds": [
+      "psop-nop-eap",
+      "risk-assessment"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1785.HEIC",
+    "ocrCharacters": 817,
+    "lessonIds": [
+      "psop-nop-eap",
+      "rotation-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1786.HEIC",
+    "ocrCharacters": 1305,
+    "lessonIds": [
+      "cleaning-and-chemicals"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1787.HEIC",
+    "ocrCharacters": 1392,
+    "lessonIds": [
+      "psop-nop-eap"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1788.HEIC",
+    "ocrCharacters": 563,
+    "lessonIds": [
+      "visibility-and-entrapment"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1791.HEIC",
+    "ocrCharacters": 810,
+    "lessonIds": [
+      "visibility-and-entrapment"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1792.HEIC",
+    "ocrCharacters": 1115,
+    "lessonIds": [
+      "visibility-and-entrapment"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1793.HEIC",
+    "ocrCharacters": 736,
+    "lessonIds": [
+      "visibility-and-entrapment"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1795.HEIC",
+    "ocrCharacters": 552,
+    "lessonIds": [
+      "risk-assessment"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1796.HEIC",
+    "ocrCharacters": 536,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1797.HEIC",
+    "ocrCharacters": 813,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1798.HEIC",
+    "ocrCharacters": 791,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1799.HEIC",
+    "ocrCharacters": 699,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1801.HEIC",
+    "ocrCharacters": 726,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1802.HEIC",
+    "ocrCharacters": 816,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1803.HEIC",
+    "ocrCharacters": 739,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1804.HEIC",
+    "ocrCharacters": 969,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1805.HEIC",
+    "ocrCharacters": 963,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1806.HEIC",
+    "ocrCharacters": 608,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1807.HEIC",
+    "ocrCharacters": 824,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1808.HEIC",
+    "ocrCharacters": 590,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1809.HEIC",
+    "ocrCharacters": 1180,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1810.HEIC",
+    "ocrCharacters": 1092,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1811.HEIC",
+    "ocrCharacters": 513,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1812.HEIC",
+    "ocrCharacters": 696,
+    "lessonIds": [
+      "pool-types-and-features"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1814.HEIC",
+    "ocrCharacters": 1205,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1815.HEIC",
+    "ocrCharacters": 1263,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1816.HEIC",
+    "ocrCharacters": 977,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1817.HEIC",
+    "ocrCharacters": 952,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1818.HEIC",
+    "ocrCharacters": 1470,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1819.HEIC",
+    "ocrCharacters": 868,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1820.HEIC",
+    "ocrCharacters": 1424,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1821.HEIC",
+    "ocrCharacters": 1008,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1822.HEIC",
+    "ocrCharacters": 869,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1825.HEIC",
+    "ocrCharacters": 948,
+    "lessonIds": [
+      "cleaning-and-chemicals"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1826.HEIC",
+    "ocrCharacters": 1139,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1827.HEIC",
+    "ocrCharacters": 793,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1828.HEIC",
+    "ocrCharacters": 532,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1829.HEIC",
+    "ocrCharacters": 829,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1830.HEIC",
+    "ocrCharacters": 576,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1831.HEIC",
+    "ocrCharacters": 962,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1832.HEIC",
+    "ocrCharacters": 799,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1833.HEIC",
+    "ocrCharacters": 935,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1834.HEIC",
+    "ocrCharacters": 950,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1835.HEIC",
+    "ocrCharacters": 620,
+    "lessonIds": [
+      "casualty-recognition"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1836.HEIC",
+    "ocrCharacters": 866,
+    "lessonIds": [
+      "casualty-recognition"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1837.HEIC",
+    "ocrCharacters": 851,
+    "lessonIds": [
+      "casualty-recognition",
+      "safe-rescue-choice"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1838.HEIC",
+    "ocrCharacters": 650,
+    "lessonIds": [
+      "casualty-recognition"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1839.HEIC",
+    "ocrCharacters": 724,
+    "lessonIds": [
+      "casualty-recognition"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1840.HEIC",
+    "ocrCharacters": 541,
+    "lessonIds": [
+      "casualty-recognition"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1841.HEIC",
+    "ocrCharacters": 1073,
+    "lessonIds": [
+      "casualty-recognition"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1842.HEIC",
+    "ocrCharacters": 610,
+    "lessonIds": [
+      "casualty-recognition"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1843.HEIC",
+    "ocrCharacters": 730,
+    "lessonIds": [
+      "casualty-recognition"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1844.HEIC",
+    "ocrCharacters": 448,
+    "lessonIds": [
+      "safe-rescue-choice",
+      "entries-and-approach"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1845.HEIC",
+    "ocrCharacters": 504,
+    "lessonIds": [
+      "drowning-response",
+      "primary-survey",
+      "recovery-position"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1846.HEIC",
+    "ocrCharacters": 604,
+    "lessonIds": [
+      "drowning-response",
+      "primary-survey"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1847.HEIC",
+    "ocrCharacters": 211,
+    "lessonIds": [
+      "primary-survey"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1848.HEIC",
+    "ocrCharacters": 606,
+    "lessonIds": [
+      "recovery-position"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1849.HEIC",
+    "ocrCharacters": 318,
+    "lessonIds": [
+      "primary-survey"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1850.HEIC",
+    "ocrCharacters": 385,
+    "lessonIds": [
+      "drowning-response",
+      "primary-survey"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1851.HEIC",
+    "ocrCharacters": 765,
+    "lessonIds": [
+      "drowning-response",
+      "primary-survey",
+      "adult-cpr"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1852.HEIC",
+    "ocrCharacters": 934,
+    "lessonIds": [
+      "primary-survey",
+      "adult-cpr",
+      "seizures"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1853.HEIC",
+    "ocrCharacters": 767,
+    "lessonIds": [
+      "primary-survey",
+      "adult-cpr"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1854.HEIC",
+    "ocrCharacters": 624,
+    "lessonIds": [
+      "drowning-response",
+      "primary-survey",
+      "adult-cpr"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1869.HEIC",
+    "ocrCharacters": 758,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1870.HEIC",
+    "ocrCharacters": 1415,
+    "lessonIds": [
+      "swimmer-behaviour"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1872.HEIC",
+    "ocrCharacters": 1226,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1873.HEIC",
+    "ocrCharacters": 1213,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1874.HEIC",
+    "ocrCharacters": 743,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1875.HEIC",
+    "ocrCharacters": 1556,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1876.HEIC",
+    "ocrCharacters": 1461,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1877.HEIC",
+    "ocrCharacters": 1857,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1878.HEIC",
+    "ocrCharacters": 3068,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1879.HEIC",
+    "ocrCharacters": 1511,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1880.HEIC",
+    "ocrCharacters": 1401,
+    "lessonIds": [
+      "swimmer-behaviour",
+      "casualty-recognition"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1881.HEIC",
+    "ocrCharacters": 1569,
+    "lessonIds": [
+      "swimmer-behaviour",
+      "casualty-recognition"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1882.HEIC",
+    "ocrCharacters": 1386,
+    "lessonIds": [
+      "casualty-recognition"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1883.HEIC",
+    "ocrCharacters": 1218,
+    "lessonIds": [
+      "casualty-recognition"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1884.HEIC",
+    "ocrCharacters": 1246,
+    "lessonIds": [
+      "casualty-recognition"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1886.HEIC",
+    "ocrCharacters": 1468,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1887.HEIC",
+    "ocrCharacters": 538,
+    "lessonIds": [
+      "activities-and-set-up"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1888.HEIC",
+    "ocrCharacters": 1022,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1889.HEIC",
+    "ocrCharacters": 733,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1890.HEIC",
+    "ocrCharacters": 1049,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1891.HEIC",
+    "ocrCharacters": 1181,
+    "lessonIds": [
+      "safe-rescue-choice",
+      "entries-and-approach",
+      "towing-and-extraction"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1892.HEIC",
+    "ocrCharacters": 490,
+    "lessonIds": [
+      "towing-and-extraction"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1893.HEIC",
+    "ocrCharacters": 1005,
+    "lessonIds": [
+      "towing-and-extraction"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1894.HEIC",
+    "ocrCharacters": 1025,
+    "lessonIds": [
+      "spinal-injury"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1896.HEIC",
+    "ocrCharacters": 422,
+    "lessonIds": [
+      "spinal-injury"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1897.HEIC",
+    "ocrCharacters": 953,
+    "lessonIds": [
+      "spinal-injury"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1900.HEIC",
+    "ocrCharacters": 848,
+    "lessonIds": [
+      "spinal-injury",
+      "drowning-response"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1901.HEIC",
+    "ocrCharacters": 1344,
+    "lessonIds": [
+      "spinal-injury",
+      "drowning-response"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1903.HEIC",
+    "ocrCharacters": 829,
+    "lessonIds": [
+      "spinal-injury"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1904.HEIC",
+    "ocrCharacters": 961,
+    "lessonIds": [
+      "towing-and-extraction",
+      "spinal-injury"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1906.HEIC",
+    "ocrCharacters": 678,
+    "lessonIds": [
+      "choking"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1907.HEIC",
+    "ocrCharacters": 791,
+    "lessonIds": [
+      "choking"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1908.HEIC",
+    "ocrCharacters": 1182,
+    "lessonIds": [
+      "choking"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1909.HEIC",
+    "ocrCharacters": 629,
+    "lessonIds": [
+      "choking"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1910.HEIC",
+    "ocrCharacters": 594,
+    "lessonIds": [
+      "child-and-infant-cpr",
+      "choking"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1911.HEIC",
+    "ocrCharacters": 584,
+    "lessonIds": [
+      "child-and-infant-cpr",
+      "choking"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1912.HEIC",
+    "ocrCharacters": 1195,
+    "lessonIds": [
+      "child-and-infant-cpr",
+      "choking"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1913.HEIC",
+    "ocrCharacters": 1152,
+    "lessonIds": [
+      "child-and-infant-cpr",
+      "choking"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1914.HEIC",
+    "ocrCharacters": 1424,
+    "lessonIds": [
+      "choking"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1915.HEIC",
+    "ocrCharacters": 1234,
+    "lessonIds": [
+      "safe-rescue-choice",
+      "entries-and-approach",
+      "towing-and-extraction",
+      "practical-and-interview",
+      "child-and-infant-cpr"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1916.HEIC",
+    "ocrCharacters": 874,
+    "lessonIds": [
+      "safe-rescue-choice",
+      "entries-and-approach",
+      "towing-and-extraction",
+      "practical-and-interview",
+      "child-and-infant-cpr"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1917.HEIC",
+    "ocrCharacters": 1220,
+    "lessonIds": [
+      "safe-rescue-choice",
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1918.HEIC",
+    "ocrCharacters": 1626,
+    "lessonIds": [
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1919.HEIC",
+    "ocrCharacters": 1363,
+    "lessonIds": [
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1920.HEIC",
+    "ocrCharacters": 860,
+    "lessonIds": [
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1921.HEIC",
+    "ocrCharacters": 569,
+    "lessonIds": [
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1922.HEIC",
+    "ocrCharacters": 1525,
+    "lessonIds": [
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1923.HEIC",
+    "ocrCharacters": 1755,
+    "lessonIds": [
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1924.HEIC",
+    "ocrCharacters": 1683,
+    "lessonIds": [
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1925.HEIC",
+    "ocrCharacters": 1390,
+    "lessonIds": [
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1926.HEIC",
+    "ocrCharacters": 1327,
+    "lessonIds": [
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1927.HEIC",
+    "ocrCharacters": 1932,
+    "lessonIds": [
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1928.HEIC",
+    "ocrCharacters": 1047,
+    "lessonIds": [
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1929.HEIC",
+    "ocrCharacters": 912,
+    "lessonIds": [
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1930.HEIC",
+    "ocrCharacters": 1308,
+    "lessonIds": [
+      "emergency-plans"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1937.HEIC",
+    "ocrCharacters": 1180,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped-overview-or-visual"
+  },
+  {
+    "file": "IMG_1938.HEIC",
+    "ocrCharacters": 889,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1940.HEIC",
+    "ocrCharacters": 832,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1941.HEIC",
+    "ocrCharacters": 737,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1942.HEIC",
+    "ocrCharacters": 610,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1943.HEIC",
+    "ocrCharacters": 710,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1944.HEIC",
+    "ocrCharacters": 763,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1945.HEIC",
+    "ocrCharacters": 962,
+    "lessonIds": [
+      "rotation-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1946.HEIC",
+    "ocrCharacters": 1091,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1947.HEIC",
+    "ocrCharacters": 543,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1948.HEIC",
+    "ocrCharacters": 563,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1949.HEIC",
+    "ocrCharacters": 800,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1950.HEIC",
+    "ocrCharacters": 513,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1951.HEIC",
+    "ocrCharacters": 668,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1952.HEIC",
+    "ocrCharacters": 732,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1953.HEIC",
+    "ocrCharacters": 598,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1954.HEIC",
+    "ocrCharacters": 748,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1955.HEIC",
+    "ocrCharacters": 505,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1956.HEIC",
+    "ocrCharacters": 673,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1957.HEIC",
+    "ocrCharacters": 304,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1958.HEIC",
+    "ocrCharacters": 496,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1959.HEIC",
+    "ocrCharacters": 836,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1960.HEIC",
+    "ocrCharacters": 570,
+    "lessonIds": [
+      "supervision-and-scanning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1961.HEIC",
+    "ocrCharacters": 1172,
+    "lessonIds": [
+      "supervision-and-scanning",
+      "rotation-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1962.HEIC",
+    "ocrCharacters": 734,
+    "lessonIds": [
+      "communication",
+      "rotation-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1963.HEIC",
+    "ocrCharacters": 692,
+    "lessonIds": [
+      "communication",
+      "rotation-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1964.HEIC",
+    "ocrCharacters": 955,
+    "lessonIds": [
+      "communication",
+      "rotation-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1965.HEIC",
+    "ocrCharacters": 771,
+    "lessonIds": [
+      "communication",
+      "rotation-and-handover"
+    ],
+    "status": "mapped-overview-or-visual"
+  },
+  {
+    "file": "IMG_1966.HEIC",
+    "ocrCharacters": 663,
+    "lessonIds": [
+      "communication",
+      "rotation-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1967.HEIC",
+    "ocrCharacters": 704,
+    "lessonIds": [
+      "communication",
+      "rotation-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1968.HEIC",
+    "ocrCharacters": 557,
+    "lessonIds": [
+      "communication",
+      "rotation-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1969.HEIC",
+    "ocrCharacters": 830,
+    "lessonIds": [
+      "communication",
+      "rotation-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1970.HEIC",
+    "ocrCharacters": 941,
+    "lessonIds": [
+      "adult-cpr",
+      "aed"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1971.HEIC",
+    "ocrCharacters": 366,
+    "lessonIds": [
+      "child-and-infant-cpr",
+      "aed"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1974.HEIC",
+    "ocrCharacters": 503,
+    "lessonIds": [
+      "aed"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1975.HEIC",
+    "ocrCharacters": 350,
+    "lessonIds": [
+      "aed"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1976.HEIC",
+    "ocrCharacters": 896,
+    "lessonIds": [
+      "adult-cpr",
+      "aed"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1978.HEIC",
+    "ocrCharacters": 535,
+    "lessonIds": [
+      "eyes-teeth-poisoning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1979.HEIC",
+    "ocrCharacters": 868,
+    "lessonIds": [
+      "first-aid-foundations"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1980.HEIC",
+    "ocrCharacters": 981,
+    "lessonIds": [
+      "first-aid-foundations"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1981.HEIC",
+    "ocrCharacters": 643,
+    "lessonIds": [
+      "first-aid-foundations"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1982.HEIC",
+    "ocrCharacters": 912,
+    "lessonIds": [
+      "first-aid-foundations"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1983.HEIC",
+    "ocrCharacters": 985,
+    "lessonIds": [
+      "first-aid-foundations"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1984.HEIC",
+    "ocrCharacters": 810,
+    "lessonIds": [
+      "first-aid-foundations",
+      "secondary-survey-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1985.HEIC",
+    "ocrCharacters": 659,
+    "lessonIds": [
+      "first-aid-foundations"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1986.HEIC",
+    "ocrCharacters": 683,
+    "lessonIds": [
+      "first-aid-foundations"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1987.HEIC",
+    "ocrCharacters": 644,
+    "lessonIds": [
+      "first-aid-foundations",
+      "secondary-survey-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1988.HEIC",
+    "ocrCharacters": 856,
+    "lessonIds": [
+      "breathing-problems"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1989.HEIC",
+    "ocrCharacters": 678,
+    "lessonIds": [
+      "primary-survey",
+      "secondary-survey-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1990.HEIC",
+    "ocrCharacters": 1107,
+    "lessonIds": [
+      "primary-survey",
+      "secondary-survey-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1991.HEIC",
+    "ocrCharacters": 558,
+    "lessonIds": [
+      "primary-survey",
+      "recovery-position"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1992.HEIC",
+    "ocrCharacters": 949,
+    "lessonIds": [
+      "recovery-position"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1993.HEIC",
+    "ocrCharacters": 977,
+    "lessonIds": [
+      "heart-attack-and-stroke"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1994.HEIC",
+    "ocrCharacters": 251,
+    "lessonIds": [
+      "heart-attack-and-stroke"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1995.HEIC",
+    "ocrCharacters": 842,
+    "lessonIds": [
+      "heart-attack-and-stroke"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1996.HEIC",
+    "ocrCharacters": 533,
+    "lessonIds": [
+      "shock-and-bleeding"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1997.HEIC",
+    "ocrCharacters": 1043,
+    "lessonIds": [
+      "shock-and-bleeding"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1998.HEIC",
+    "ocrCharacters": 319,
+    "lessonIds": [
+      "shock-and-bleeding"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_1999.HEIC",
+    "ocrCharacters": 949,
+    "lessonIds": [
+      "breathing-problems"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2001.HEIC",
+    "ocrCharacters": 979,
+    "lessonIds": [
+      "breathing-problems"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2002.HEIC",
+    "ocrCharacters": 489,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2003.HEIC",
+    "ocrCharacters": 78,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2004.HEIC",
+    "ocrCharacters": 383,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2005.HEIC",
+    "ocrCharacters": 762,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2006.HEIC",
+    "ocrCharacters": 0,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped-overview-or-visual"
+  },
+  {
+    "file": "IMG_2007.HEIC",
+    "ocrCharacters": 899,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2008.HEIC",
+    "ocrCharacters": 728,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2009.HEIC",
+    "ocrCharacters": 896,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2010.HEIC",
+    "ocrCharacters": 1064,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2011.HEIC",
+    "ocrCharacters": 565,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2012.HEIC",
+    "ocrCharacters": 772,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2013.HEIC",
+    "ocrCharacters": 643,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2014.HEIC",
+    "ocrCharacters": 639,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2015.HEIC",
+    "ocrCharacters": 557,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2016.HEIC",
+    "ocrCharacters": 1041,
+    "lessonIds": [
+      "anaphylaxis"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2017.HEIC",
+    "ocrCharacters": 727,
+    "lessonIds": [
+      "anaphylaxis",
+      "secondary-survey-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2018.HEIC",
+    "ocrCharacters": 605,
+    "lessonIds": [
+      "breathing-problems"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2019.HEIC",
+    "ocrCharacters": 854,
+    "lessonIds": [
+      "breathing-problems"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2020.HEIC",
+    "ocrCharacters": 472,
+    "lessonIds": [
+      "breathing-problems"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2021.HEIC",
+    "ocrCharacters": 754,
+    "lessonIds": [
+      "breathing-problems"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2022.HEIC",
+    "ocrCharacters": 532,
+    "lessonIds": [
+      "shock-and-bleeding"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2023.HEIC",
+    "ocrCharacters": 596,
+    "lessonIds": [
+      "shock-and-bleeding"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2024.HEIC",
+    "ocrCharacters": 439,
+    "lessonIds": [
+      "shock-and-bleeding",
+      "minor-wounds"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2025.HEIC",
+    "ocrCharacters": 765,
+    "lessonIds": [
+      "minor-wounds"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2026.HEIC",
+    "ocrCharacters": 578,
+    "lessonIds": [
+      "shock-and-bleeding"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2027.HEIC",
+    "ocrCharacters": 1427,
+    "lessonIds": [
+      "shock-and-bleeding"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2028.HEIC",
+    "ocrCharacters": 711,
+    "lessonIds": [
+      "shock-and-bleeding"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2029.HEIC",
+    "ocrCharacters": 723,
+    "lessonIds": [
+      "shock-and-bleeding"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2030.HEIC",
+    "ocrCharacters": 947,
+    "lessonIds": [
+      "shock-and-bleeding"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2031.HEIC",
+    "ocrCharacters": 556,
+    "lessonIds": [
+      "shock-and-bleeding"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2032.HEIC",
+    "ocrCharacters": 1623,
+    "lessonIds": [
+      "shock-and-bleeding"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2033.HEIC",
+    "ocrCharacters": 692,
+    "lessonIds": [
+      "minor-wounds"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2034.HEIC",
+    "ocrCharacters": 496,
+    "lessonIds": [
+      "minor-wounds"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2035.HEIC",
+    "ocrCharacters": 623,
+    "lessonIds": [
+      "burns-and-electricity"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2036.HEIC",
+    "ocrCharacters": 734,
+    "lessonIds": [
+      "burns-and-electricity"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2037.HEIC",
+    "ocrCharacters": 858,
+    "lessonIds": [
+      "burns-and-electricity"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2038.HEIC",
+    "ocrCharacters": 925,
+    "lessonIds": [
+      "burns-and-electricity"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2039.HEIC",
+    "ocrCharacters": 874,
+    "lessonIds": [
+      "burns-and-electricity",
+      "temperature"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2040.HEIC",
+    "ocrCharacters": 1137,
+    "lessonIds": [
+      "burns-and-electricity"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2041.HEIC",
+    "ocrCharacters": 207,
+    "lessonIds": [
+      "burns-and-electricity"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2042.HEIC",
+    "ocrCharacters": 449,
+    "lessonIds": [
+      "bones-and-soft-tissue"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2043.HEIC",
+    "ocrCharacters": 968,
+    "lessonIds": [
+      "bones-and-soft-tissue"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2044.HEIC",
+    "ocrCharacters": 1343,
+    "lessonIds": [
+      "bones-and-soft-tissue"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2045.HEIC",
+    "ocrCharacters": 424,
+    "lessonIds": [
+      "bones-and-soft-tissue"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2046.HEIC",
+    "ocrCharacters": 1151,
+    "lessonIds": [
+      "bones-and-soft-tissue"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2047.HEIC",
+    "ocrCharacters": 690,
+    "lessonIds": [
+      "bones-and-soft-tissue"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2048.HEIC",
+    "ocrCharacters": 418,
+    "lessonIds": [
+      "bones-and-soft-tissue"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2049.HEIC",
+    "ocrCharacters": 812,
+    "lessonIds": [
+      "bones-and-soft-tissue"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2050.HEIC",
+    "ocrCharacters": 654,
+    "lessonIds": [
+      "bones-and-soft-tissue"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2051.HEIC",
+    "ocrCharacters": 600,
+    "lessonIds": [
+      "bones-and-soft-tissue"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2052.HEIC",
+    "ocrCharacters": 819,
+    "lessonIds": [
+      "head-and-chest-injuries"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2053.HEIC",
+    "ocrCharacters": 684,
+    "lessonIds": [
+      "recovery-position",
+      "head-and-chest-injuries"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2054.HEIC",
+    "ocrCharacters": 752,
+    "lessonIds": [
+      "head-and-chest-injuries"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2055.HEIC",
+    "ocrCharacters": 1801,
+    "lessonIds": [
+      "head-and-chest-injuries"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2056.HEIC",
+    "ocrCharacters": 810,
+    "lessonIds": [
+      "head-and-chest-injuries"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2057.HEIC",
+    "ocrCharacters": 928,
+    "lessonIds": [
+      "recovery-position",
+      "head-and-chest-injuries"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2059.HEIC",
+    "ocrCharacters": 747,
+    "lessonIds": [
+      "head-and-chest-injuries"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2060.HEIC",
+    "ocrCharacters": 609,
+    "lessonIds": [
+      "eyes-teeth-poisoning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2061.HEIC",
+    "ocrCharacters": 867,
+    "lessonIds": [
+      "eyes-teeth-poisoning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2062.HEIC",
+    "ocrCharacters": 1235,
+    "lessonIds": [
+      "eyes-teeth-poisoning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2063.HEIC",
+    "ocrCharacters": 987,
+    "lessonIds": [
+      "eyes-teeth-poisoning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2065.HEIC",
+    "ocrCharacters": 1028,
+    "lessonIds": [
+      "heart-attack-and-stroke"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2067.HEIC",
+    "ocrCharacters": 960,
+    "lessonIds": [
+      "heart-attack-and-stroke"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2068.HEIC",
+    "ocrCharacters": 653,
+    "lessonIds": [
+      "eyes-teeth-poisoning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2070.HEIC",
+    "ocrCharacters": 812,
+    "lessonIds": [
+      "eyes-teeth-poisoning"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2071.HEIC",
+    "ocrCharacters": 715,
+    "lessonIds": [
+      "diabetes"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2072.HEIC",
+    "ocrCharacters": 880,
+    "lessonIds": [
+      "diabetes"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2074.HEIC",
+    "ocrCharacters": 653,
+    "lessonIds": [
+      "diabetes"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2075.HEIC",
+    "ocrCharacters": 452,
+    "lessonIds": [
+      "seizures"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2077.HEIC",
+    "ocrCharacters": 937,
+    "lessonIds": [
+      "seizures"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2078.HEIC",
+    "ocrCharacters": 1032,
+    "lessonIds": [
+      "seizures"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2080.HEIC",
+    "ocrCharacters": 786,
+    "lessonIds": [
+      "seizures"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2081.HEIC",
+    "ocrCharacters": 947,
+    "lessonIds": [
+      "seizures"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2082.HEIC",
+    "ocrCharacters": 1109,
+    "lessonIds": [
+      "temperature"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2083.HEIC",
+    "ocrCharacters": 985,
+    "lessonIds": [
+      "temperature"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2085.HEIC",
+    "ocrCharacters": 1009,
+    "lessonIds": [
+      "secondary-survey-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2086.HEIC",
+    "ocrCharacters": 852,
+    "lessonIds": [
+      "secondary-survey-and-handover"
+    ],
+    "status": "mapped"
+  },
+  {
+    "file": "IMG_2087.HEIC",
+    "ocrCharacters": 331,
+    "lessonIds": [
+      "secondary-survey-and-handover"
+    ],
+    "status": "mapped"
+  }
+]

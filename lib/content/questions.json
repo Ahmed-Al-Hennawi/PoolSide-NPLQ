@@ -1,0 +1,842 @@
+[
+  {
+    "id": "safety-01",
+    "question": "A swimmer repeatedly pulls along the wall towards deeper water. What is the best early action?",
+    "options": [
+      "Wait until they ask for help",
+      "Ask another swimmer to watch them",
+      "Record it after the shift",
+      "Explain the risk and guide them to a suitable area"
+    ],
+    "correct": 3,
+    "explanation": "Early intervention can prevent a weak swimmer getting out of their depth. Give a clear instruction and keep observing.",
+    "lessonId": "role-and-standards",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-02",
+    "question": "You use a whistle to attract a swimmer’s attention. What should follow?",
+    "options": [
+      "A warning to every swimmer regardless of behaviour",
+      "A clear instruction and brief safety explanation",
+      "Another whistle without speaking",
+      "A public argument"
+    ],
+    "correct": 1,
+    "explanation": "A whistle gets attention. The swimmer still needs to know what to do and why.",
+    "lessonId": "communication",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-03",
+    "question": "You are qualified but have never worked at this pool. What is needed before taking independent duties?",
+    "options": [
+      "Site induction and confirmation of competence for the role",
+      "Only a tour of the changing rooms",
+      "Only a uniform",
+      "Nothing further while the certificate is valid"
+    ],
+    "correct": 0,
+    "explanation": "Qualification does not replace site-specific knowledge of zones, hazards, equipment and emergency procedures.",
+    "lessonId": "induction-and-training",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-04",
+    "question": "Where would you normally check the depth changes and routine lifeguard positions?",
+    "options": [
+      "The staff social calendar",
+      "The NOP",
+      "The accident book",
+      "The manufacturer’s sales brochure"
+    ],
+    "correct": 1,
+    "explanation": "Routine pool details and supervision arrangements belong in the Normal Operating Plan/Procedures.",
+    "lessonId": "psop-nop-eap",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-05",
+    "question": "The water becomes too cloudy to see the bottom effectively. Which plan directs the emergency response?",
+    "options": [
+      "The EAP",
+      "The staff holiday rota",
+      "The cleaning product order form",
+      "The customer loyalty plan"
+    ],
+    "correct": 0,
+    "explanation": "Loss of water clarity is an emergency operating condition. Alert the supervisor and follow the Emergency Action Plan.",
+    "lessonId": "psop-nop-eap",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-06",
+    "question": "Which is a key duty of a pool operator?",
+    "options": [
+      "Keeping lifeguard numbers identical for all sessions",
+      "Letting qualified staff decide every procedure individually",
+      "Guaranteeing that no swimmer ever breaks a rule",
+      "Providing suitable risk assessment, training and safe arrangements"
+    ],
+    "correct": 3,
+    "explanation": "The operator must assess the actual risks and provide suitable information, instruction, training and supervision.",
+    "lessonId": "law-and-responsibility",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-07",
+    "question": "A rescue aid is damaged during your shift. What should you do?",
+    "options": [
+      "Report it and follow the procedure for defective equipment",
+      "Leave it for the next shift",
+      "Repair it using any materials nearby",
+      "Hide it so customers do not worry"
+    ],
+    "correct": 0,
+    "explanation": "Safety equipment must remain usable. Report the defect and use the approved arrangements for replacement or withdrawal.",
+    "lessonId": "law-and-responsibility",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-08",
+    "question": "Which statement best describes a hazard?",
+    "options": [
+      "An incident report",
+      "A completed safety check",
+      "Something with the potential to cause harm",
+      "The probability of an accident"
+    ],
+    "correct": 2,
+    "explanation": "The hazard is the source of possible harm. Risk considers likelihood and consequences.",
+    "lessonId": "risk-assessment",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-09",
+    "question": "Sunlight creates a new blind spot halfway through a session. This most directly calls for what?",
+    "options": [
+      "Waiting for the next annual risk assessment",
+      "Closing the whole building without consulting the EAP",
+      "Ignoring it because opening checks passed",
+      "Dynamic reassessment and immediate action through site procedures"
+    ],
+    "correct": 3,
+    "explanation": "Risk assessment continues while conditions change. Effective observation must be restored through the agreed response.",
+    "lessonId": "risk-assessment",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-10",
+    "question": "A child discloses a safeguarding concern. Which response is appropriate?",
+    "options": [
+      "Listen calmly and report it through the safeguarding procedure",
+      "Promise to keep it secret",
+      "Question other children to investigate",
+      "Discuss it with customers to seek advice"
+    ],
+    "correct": 0,
+    "explanation": "Take the concern seriously, avoid promising secrecy and report factual information to the designated person.",
+    "lessonId": "safeguarding-and-inclusion",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-11",
+    "question": "Which source determines the child admission requirements at your pool?",
+    "options": [
+      "A rule chosen by each lifeguard",
+      "The age of the oldest lifeguard",
+      "The operator’s admission policy",
+      "A ratio remembered from another centre"
+    ],
+    "correct": 2,
+    "explanation": "Apply the site’s assessed admission policy consistently. Do not invent a universal adult-to-child ratio.",
+    "lessonId": "safeguarding-and-inclusion",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-12",
+    "question": "Before operating a pool hoist, what is essential?",
+    "options": [
+      "That the user can swim unaided",
+      "That another customer helps",
+      "That the pool is completely empty in every case",
+      "Training, checks and the site’s safe operating procedure"
+    ],
+    "correct": 3,
+    "explanation": "Hoists need suitable inspection and trained operation. Follow the instructions for that equipment and site.",
+    "lessonId": "pool-types-and-features",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-13",
+    "question": "Why can wave features increase risk for a weak swimmer?",
+    "options": [
+      "They may tire or move the swimmer into water beyond their ability",
+      "They guarantee the swimmer remains near the edge",
+      "They always reduce the water depth",
+      "They remove the need for supervision"
+    ],
+    "correct": 0,
+    "explanation": "Moving water can change the swimmer’s position and effort. Intervene before they lose control.",
+    "lessonId": "pool-types-and-features",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-14",
+    "question": "A drain cover is visibly damaged. What is the best response?",
+    "options": [
+      "Ask a child to check it underwater",
+      "Place a towel over it and continue",
+      "Keep users away and report it immediately under site procedures",
+      "Allow use unless someone complains"
+    ],
+    "correct": 2,
+    "explanation": "Damaged outlets can create entrapment hazards. Prevent exposure and activate the appropriate site response.",
+    "lessonId": "visibility-and-entrapment",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-15",
+    "question": "What most directly affects the supervision needed for an inflatable?",
+    "options": [
+      "The number of social-media followers",
+      "Its design, positioning, users and assessed hazards",
+      "Its colour scheme",
+      "The price of the entry ticket"
+    ],
+    "correct": 1,
+    "explanation": "Inflatables change visibility, movement and entrapment risks. Cover must follow the activity assessment and NOP.",
+    "lessonId": "activities-and-set-up",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-16",
+    "question": "You are asked to use an unfamiliar cleaning chemical. What should you do?",
+    "options": [
+      "Use it only after the required authorisation, information and training",
+      "Mix it with the usual cleaner",
+      "Use twice as much to be safe",
+      "Smell it to identify it"
+    ],
+    "correct": 0,
+    "explanation": "Chemical handling needs the correct instructions, controls and PPE. Never mix chemicals.",
+    "lessonId": "cleaning-and-chemicals",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-17",
+    "question": "Why should cleaning be arranged separately from active pool supervision?",
+    "options": [
+      "To avoid distracting the lifeguard responsible for observing the zone",
+      "Because only managers can hold cleaning equipment",
+      "Because cleaning never matters",
+      "To make the shift last longer"
+    ],
+    "correct": 0,
+    "explanation": "Secondary duties must not create a gap in effective supervision.",
+    "lessonId": "cleaning-and-chemicals",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-18",
+    "question": "Two swimmers challenge each other to stay underwater as long as possible. What should you do?",
+    "options": [
+      "Stop the activity and explain the risk of breath-holding blackout",
+      "Let it continue if they wear goggles",
+      "Time the competition",
+      "Ask them to move to deeper water"
+    ],
+    "correct": 0,
+    "explanation": "Extended breath holding and underwater contests can cause hypoxic blackout and need early intervention.",
+    "lessonId": "swimmer-behaviour",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-19",
+    "question": "What does Natural Scan:20 mean in the supplied training slides?",
+    "options": [
+      "Take a break every 20 seconds",
+      "Scan continuously, with access to any part of the zone within 20 seconds",
+      "Scan only 20 swimmers at a time",
+      "Look at the pool once every 20 seconds"
+    ],
+    "correct": 1,
+    "explanation": "The slides pair continuous observation with a pool-operator requirement that the lifeguard can reach any area of the zone within 20 seconds.",
+    "lessonId": "supervision-and-scanning",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-20",
+    "question": "What must your scanning include?",
+    "options": [
+      "Only the area nearest the chair",
+      "The surface, underwater space, bottom and relevant surrounding area",
+      "Only people swimming quickly",
+      "Only the water surface"
+    ],
+    "correct": 1,
+    "explanation": "A casualty may be below the surface or on the bottom, and poolside behaviour can create the next incident.",
+    "lessonId": "supervision-and-scanning",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-21",
+    "question": "When should an outgoing lifeguard leave their position during a handover?",
+    "options": [
+      "As soon as the incoming lifeguard enters the pool hall",
+      "Before sharing any important information",
+      "Whenever their scheduled time ends",
+      "After the incoming lifeguard has an effective view and acknowledges responsibility"
+    ],
+    "correct": 3,
+    "explanation": "The handover must preserve continuous cover, with a clear transfer of responsibility.",
+    "lessonId": "rotation-and-handover",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-22",
+    "question": "A new underwater detection system is installed. What changes about your duty?",
+    "options": [
+      "You need only watch the alarm display",
+      "You can stop scanning while it is switched on",
+      "You must learn its use and response while maintaining required observation",
+      "You can reduce staffing without a risk assessment"
+    ],
+    "correct": 2,
+    "explanation": "Technology supports trained lifeguards. It does not automatically replace direct supervision or assessed staffing.",
+    "lessonId": "supervision-and-scanning",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-23",
+    "question": "What information is most useful during a brief handover?",
+    "options": [
+      "A weak swimmer, equipment concern or changed activity in the zone",
+      "Your weekend plans",
+      "A television programme recommendation",
+      "A detailed account of an unrelated complaint"
+    ],
+    "correct": 0,
+    "explanation": "Pass information that affects immediate supervision and safety, keeping the exchange brief.",
+    "lessonId": "rotation-and-handover",
+    "sectionId": "safety"
+  },
+  {
+    "id": "safety-24",
+    "question": "A customer becomes angry when you explain a safety rule. What is the best response?",
+    "options": [
+      "Threaten them immediately",
+      "Ignore them and turn away from the pool",
+      "Remain calm, explain the rule and obtain support if needed",
+      "Argue until they admit you are right"
+    ],
+    "correct": 2,
+    "explanation": "Professional communication reduces escalation. Get help for unresolved behaviour without abandoning safe supervision.",
+    "lessonId": "communication",
+    "sectionId": "safety"
+  },
+  {
+    "id": "rescue-01",
+    "question": "A swimmer is motionless just below the surface. You are unsure whether they are playing. What should you do?",
+    "options": [
+      "Investigate and act immediately using your emergency training",
+      "Ask other swimmers to ignore them",
+      "Wait for a wave or shout",
+      "Wait until the next scan"
+    ],
+    "correct": 0,
+    "explanation": "Unusual stillness or submersion can signal an emergency. Do not wait for a classic drowning display.",
+    "lessonId": "casualty-recognition",
+    "sectionId": "rescue"
+  },
+  {
+    "id": "rescue-02",
+    "question": "A responsive casualty is close enough to reach safely with a rescue pole. Which option should you consider first?",
+    "options": [
+      "Waiting for the ambulance",
+      "A dive beside them regardless of depth",
+      "A secure reaching rescue",
+      "Asking them to swim away"
+    ],
+    "correct": 2,
+    "explanation": "A safe effective reaching rescue can avoid exposing the rescuer to unnecessary in-water risk.",
+    "lessonId": "safe-rescue-choice",
+    "sectionId": "rescue"
+  },
+  {
+    "id": "rescue-03",
+    "question": "What determines a suitable water entry?",
+    "options": [
+      "Always diving as quickly as possible",
+      "What another swimmer just did",
+      "The entry that looks most impressive",
+      "Known depth, hazards, casualty needs, equipment and your training"
+    ],
+    "correct": 3,
+    "explanation": "Choose a trained entry that suits the actual conditions. Never dive into unknown or unsuitable water.",
+    "lessonId": "entries-and-approach",
+    "sectionId": "rescue"
+  },
+  {
+    "id": "rescue-04",
+    "question": "During a rescue tow, which is a continuing priority?",
+    "options": [
+      "Completing the tow without speaking",
+      "Looking only at the exit",
+      "Keeping the casualty’s feet dry",
+      "Keeping the airway clear and monitoring the casualty"
+    ],
+    "correct": 3,
+    "explanation": "Effective rescue includes supporting breathing and noticing deterioration while moving to safety.",
+    "lessonId": "towing-and-extraction",
+    "sectionId": "rescue"
+  },
+  {
+    "id": "rescue-05",
+    "question": "A casualty cannot assist with getting onto poolside. What should guide extraction?",
+    "options": [
+      "A single rescuer lifting however they can",
+      "Avoiding all communication",
+      "The nearest customer’s suggestion",
+      "A trained team technique suited to the casualty and pool"
+    ],
+    "correct": 3,
+    "explanation": "Use sufficient trained assistance, suitable equipment and coordinated commands to protect both casualty and rescuers.",
+    "lessonId": "towing-and-extraction",
+    "sectionId": "rescue"
+  },
+  {
+    "id": "rescue-06",
+    "question": "A suspected spinal casualty is face down and unresponsive in the water. What takes priority?",
+    "options": [
+      "Asking witnesses to complete forms",
+      "Keeping the casualty completely still indefinitely",
+      "Establishing an airway and urgent removal for assessment/resuscitation",
+      "Waiting for a spinal board before any action"
+    ],
+    "correct": 2,
+    "explanation": "Saving life and restoring breathing take priority over spinal restriction when resuscitation may be needed.",
+    "lessonId": "spinal-injury",
+    "sectionId": "rescue"
+  },
+  {
+    "id": "rescue-07",
+    "question": "Which event particularly raises suspicion of a spinal injury?",
+    "options": [
+      "A complaint about water temperature",
+      "A swimmer asking for the time",
+      "A person putting on goggles",
+      "A head-first impact after a dive"
+    ],
+    "correct": 3,
+    "explanation": "The mechanism of injury matters. A diving impact can damage the head, neck or spine.",
+    "lessonId": "spinal-injury",
+    "sectionId": "rescue"
+  },
+  {
+    "id": "rescue-08",
+    "question": "A drowning casualty is out of the water, unresponsive and not breathing normally. What is the initial breathing action for a trained rescuer?",
+    "options": [
+      "Give five rescue breaths, then continue CPR",
+      "Hold them upside down",
+      "Wait for an AED before care",
+      "Give water to drink"
+    ],
+    "correct": 0,
+    "explanation": "Drowning is a hypoxic emergency. Five initial breaths precede the appropriate ongoing CPR sequence.",
+    "lessonId": "drowning-response",
+    "sectionId": "rescue"
+  },
+  {
+    "id": "rescue-09",
+    "question": "You detect a strong chemical smell and people are coughing. What should you do?",
+    "options": [
+      "Enter the chemical store to investigate alone",
+      "Mix another chemical to neutralise it",
+      "Keep swimmers in place until the next break",
+      "Raise the alarm and follow the chemical emergency/evacuation plan"
+    ],
+    "correct": 3,
+    "explanation": "Avoid becoming another casualty. Follow the EAP and keep people away from the hazardous area.",
+    "lessonId": "emergency-plans",
+    "sectionId": "rescue"
+  },
+  {
+    "id": "rescue-10",
+    "question": "Which information should be given when calling emergency services?",
+    "options": [
+      "Only the pool’s name",
+      "Exact location, what happened, casualty condition and hazards",
+      "Only the casualty’s membership number",
+      "Your opinion about who is to blame"
+    ],
+    "correct": 1,
+    "explanation": "Responders need actionable facts, including access details and responsiveness/breathing.",
+    "lessonId": "emergency-plans",
+    "sectionId": "rescue"
+  },
+  {
+    "id": "rescue-11",
+    "question": "A parent reports a missing child near the pool. What is the best response?",
+    "options": [
+      "Ask the parent to search alone",
+      "Wait to see if the child returns",
+      "Activate the missing-child procedure immediately, including attention to the water",
+      "Send every lifeguard away from the pool to search"
+    ],
+    "correct": 2,
+    "explanation": "Respond urgently while maintaining necessary cover; the water must be considered immediately.",
+    "lessonId": "emergency-plans",
+    "sectionId": "rescue"
+  },
+  {
+    "id": "rescue-12",
+    "question": "How should you use a written rescue revision guide before a practical assessment?",
+    "options": [
+      "As a reason to practise rescues alone",
+      "To refresh decisions alongside supervised practice of physical skills",
+      "As a replacement for swimming practice",
+      "As proof that you are competent to use any equipment"
+    ],
+    "correct": 1,
+    "explanation": "Practical competence requires observed physical performance. Reading supports but cannot replace safe supervised training.",
+    "lessonId": "practical-and-interview",
+    "sectionId": "rescue"
+  },
+  {
+    "id": "first-aid-01",
+    "question": "An adult does not respond when you speak to them and gently check responsiveness. What should happen promptly?",
+    "options": [
+      "Complete a detailed medical history first",
+      "Call 999/112 and request an AED, then assess breathing",
+      "Give them a drink",
+      "Wait five minutes for improvement"
+    ],
+    "correct": 1,
+    "explanation": "Current RCUK and supplied May 2026 guidance call for help as soon as unresponsiveness is recognised.",
+    "lessonId": "primary-survey",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-02",
+    "question": "An unresponsive person takes occasional noisy gasps. How should you interpret this?",
+    "options": [
+      "Abnormal breathing that can indicate cardiac arrest",
+      "Proof that CPR is unnecessary",
+      "Normal sleep",
+      "A reason to give food"
+    ],
+    "correct": 0,
+    "explanation": "Agonal gasps are not normal breathing. Call for help and begin CPR when the person is unresponsive and breathing abnormally.",
+    "lessonId": "primary-survey",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-03",
+    "question": "What adult compression rate and depth should a trained rescuer aim for?",
+    "options": [
+      "140–160 per minute, 7–8 cm",
+      "60–80 per minute, 2–3 cm",
+      "100–120 per minute, 5–6 cm",
+      "80–100 per minute, 1 cm"
+    ],
+    "correct": 2,
+    "explanation": "Adult compressions should be 100–120 per minute and 5–6 cm deep, allowing full recoil.",
+    "lessonId": "adult-cpr",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-04",
+    "question": "What is the usual adult compression-to-breath ratio for a rescuer trained to ventilate?",
+    "options": [
+      "10:2",
+      "30:2",
+      "15:5",
+      "5:1"
+    ],
+    "correct": 1,
+    "explanation": "Use 30 compressions and two effective breaths, with short interruptions.",
+    "lessonId": "adult-cpr",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-05",
+    "question": "Which statement about paediatric CPR ratios matches current RCUK guidance?",
+    "options": [
+      "Always 15:2 for anyone who sees a child",
+      "Always 30:5",
+      "15:2 if specifically PBLS trained; otherwise 30:2",
+      "The ratio depends only on whether two adults are present"
+    ],
+    "correct": 2,
+    "explanation": "Training scope determines the advised ratio. Five initial rescue breaths are given for an unresponsive child not breathing normally.",
+    "lessonId": "child-and-infant-cpr",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-06",
+    "question": "The AED says that no shock is advised. The casualty remains unresponsive and is not breathing normally. What next?",
+    "options": [
+      "Wait without touching them until the ambulance arrives",
+      "Remove the pads and stop",
+      "Put them in a chair",
+      "Resume CPR as prompted"
+    ],
+    "correct": 3,
+    "explanation": "No shock advised does not mean recovery. Continue CPR and follow the AED prompts.",
+    "lessonId": "aed",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-07",
+    "question": "What is essential while an AED analyses or delivers a shock?",
+    "options": [
+      "Someone holds the casualty’s hand",
+      "Nobody touches the casualty",
+      "The pads are removed",
+      "The casualty remains in the pool"
+    ],
+    "correct": 1,
+    "explanation": "Ensure everybody is clear during analysis and shock delivery. Resume CPR promptly afterwards as directed.",
+    "lessonId": "aed",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-08",
+    "question": "Which casualty is generally suitable for a recovery position?",
+    "options": [
+      "Anyone with occasional gasps",
+      "A person who needs chest compressions",
+      "Every trauma casualty without assessment",
+      "An unresponsive, normally breathing casualty without a trauma reason to avoid rolling"
+    ],
+    "correct": 3,
+    "explanation": "Recovery positioning is for those who do not need CPR. Trauma requires particular care and airway/spinal priorities.",
+    "lessonId": "recovery-position",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-09",
+    "question": "An adult is choking but still coughing effectively. What should you do first?",
+    "options": [
+      "Give abdominal thrusts immediately",
+      "Encourage coughing and monitor closely",
+      "Sweep their mouth blindly",
+      "Give a drink"
+    ],
+    "correct": 1,
+    "explanation": "An effective cough is the first response to a mild obstruction. Escalate if it becomes ineffective.",
+    "lessonId": "choking",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-10",
+    "question": "An infant has a severe airway obstruction and back blows have not worked. Which action is appropriate?",
+    "options": [
+      "Up to five chest thrusts using the trained infant technique",
+      "Shake the infant upside down",
+      "Give a large drink",
+      "Abdominal thrusts"
+    ],
+    "correct": 0,
+    "explanation": "Infants receive chest thrusts, not abdominal thrusts. Support them securely and follow the trained sequence.",
+    "lessonId": "choking",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-11",
+    "question": "A wound contains a firmly embedded object and is bleeding. What should you do?",
+    "options": [
+      "Ignore the bleeding until it falls out",
+      "Push it deeper to seal the wound",
+      "Apply pressure around it, support it and seek emergency help",
+      "Pull it out quickly"
+    ],
+    "correct": 2,
+    "explanation": "Removing an embedded object can increase bleeding and tissue damage. Apply pressure around it.",
+    "lessonId": "shock-and-bleeding",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-12",
+    "question": "After an injury, a casualty becomes pale, clammy and confused. What should concern you?",
+    "options": [
+      "Only embarrassment",
+      "Normal recovery in every case",
+      "Shock or internal bleeding requiring urgent help",
+      "That they need exercise"
+    ],
+    "correct": 2,
+    "explanation": "These may signal inadequate circulation even when no major external bleeding is visible.",
+    "lessonId": "shock-and-bleeding",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-13",
+    "question": "What is the initial cooling treatment for a thermal burn?",
+    "options": [
+      "Cool running water for 20 minutes",
+      "Ice pressed directly onto the skin",
+      "Hot water for ten minutes",
+      "Butter under a tight dressing"
+    ],
+    "correct": 0,
+    "explanation": "Cool running water limits further heat injury. Keep the rest of the person warm and leave stuck clothing in place.",
+    "lessonId": "burns-and-electricity",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-14",
+    "question": "A person may still be touching a live electrical source. What is your first priority?",
+    "options": [
+      "Make the scene electrically safe and summon help before contact",
+      "Place an AED pad on them immediately",
+      "Pull them away with bare hands",
+      "Pour water over the source"
+    ],
+    "correct": 0,
+    "explanation": "Do not become a second casualty. Safe isolation is required before approaching and providing care.",
+    "lessonId": "burns-and-electricity",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-15",
+    "question": "After a head impact, a swimmer is confused and repeatedly vomits. What should you do?",
+    "options": [
+      "Obtain urgent medical help and monitor while minimising unnecessary movement",
+      "Ask them to run to test their balance",
+      "Return them to swimming if they can stand",
+      "Give food and wait an hour"
+    ],
+    "correct": 0,
+    "explanation": "Confusion and repeated vomiting after head trauma are warning signs. Protect breathing and seek urgent assessment.",
+    "lessonId": "head-and-chest-injuries",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-16",
+    "question": "How should a first aider generally manage an open penetrating chest wound?",
+    "options": [
+      "Remove any embedded object",
+      "Seal it tightly with plastic on all sides",
+      "Call 999/112, leave it uncovered and control local bleeding without blocking airflow",
+      "Give food to prevent shock"
+    ],
+    "correct": 2,
+    "explanation": "Current guidance advises against an improvised airtight seal. Specialised vented dressings require appropriate training.",
+    "lessonId": "head-and-chest-injuries",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-17",
+    "question": "A swimmer with asthma is struggling to speak. What is appropriate?",
+    "options": [
+      "Use a paper bag",
+      "Make them lie flat and walk it off",
+      "Help them sit comfortably, assist their reliever inhaler and summon urgent help",
+      "Tell them to hold their breath"
+    ],
+    "correct": 2,
+    "explanation": "Difficulty speaking can indicate a severe attack. Assist their prescribed treatment, call for help and monitor.",
+    "lessonId": "breathing-problems",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-18",
+    "question": "A casualty with suspected anaphylaxis feels better after adrenaline. What should happen?",
+    "options": [
+      "Cancel emergency help immediately",
+      "They should walk around to test recovery",
+      "Keep them appropriately positioned, ensure 999/112 is called and monitor",
+      "Give a second dose every minute regardless of symptoms"
+    ],
+    "correct": 2,
+    "explanation": "Anaphylaxis needs emergency care even after improvement. Do not allow standing or walking; repeat after five minutes if symptoms persist.",
+    "lessonId": "anaphylaxis",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-19",
+    "question": "A diabetic casualty is shaky and confused but fully awake and able to swallow. Which is suitable?",
+    "options": [
+      "Nothing until they become unresponsive",
+      "A sugar-free drink",
+      "An extra dose of insulin from a first aider",
+      "A fast-acting sugar source according to their plan and training"
+    ],
+    "correct": 3,
+    "explanation": "Possible hypoglycaemia needs sugar when swallowing is safe. Diet drinks do not provide it.",
+    "lessonId": "diabetes",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-20",
+    "question": "A casualty with suspected low blood sugar becomes unresponsive. What must you avoid?",
+    "options": [
+      "Calling emergency services",
+      "Giving CPR if indicated",
+      "Putting a drink or glucose gel in their mouth",
+      "Assessing breathing"
+    ],
+    "correct": 2,
+    "explanation": "Oral sugar can enter the airway when the person is unresponsive. Provide emergency assessment and care instead.",
+    "lessonId": "diabetes",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-21",
+    "question": "Someone has a seizure on poolside. Which response is appropriate?",
+    "options": [
+      "Clear hazards, cushion the head and time it",
+      "Restrain their arms and legs",
+      "Put a spoon in their mouth",
+      "Force them to drink"
+    ],
+    "correct": 0,
+    "explanation": "Prevent injury without restraint. Reassess breathing afterwards and call for help according to the circumstances.",
+    "lessonId": "seizures",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-22",
+    "question": "A casualty suddenly has facial droop, one weak arm and slurred speech. What should you do?",
+    "options": [
+      "Call 999/112 immediately and note symptom timing",
+      "Ask them to swim slowly",
+      "Give them a meal",
+      "Wait to see whether sleep helps"
+    ],
+    "correct": 0,
+    "explanation": "These are FAST stroke signs. Rapid emergency assessment matters.",
+    "lessonId": "heart-attack-and-stroke",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-23",
+    "question": "A pool chemical splashes into one eye. What should you do?",
+    "options": [
+      "Neutralise it with another chemical",
+      "Begin continuous clean-water irrigation away from the unaffected eye and obtain urgent help",
+      "Rub the eye to remove it",
+      "Cover both eyes and wait"
+    ],
+    "correct": 1,
+    "explanation": "Prompt irrigation reduces chemical contact. Avoid rubbing and improvised neutralisation.",
+    "lessonId": "eyes-teeth-poisoning",
+    "sectionId": "first-aid"
+  },
+  {
+    "id": "first-aid-24",
+    "question": "Which is the most useful handover to ambulance staff?",
+    "options": [
+      "Only the casualty’s name",
+      "A guess about the diagnosis without observations",
+      "Only who completed the report",
+      "What happened, findings, changes, times and care already given"
+    ],
+    "correct": 3,
+    "explanation": "A factual handover supports continued care and avoids losing important information.",
+    "lessonId": "secondary-survey-and-handover",
+    "sectionId": "first-aid"
+  }
+]
